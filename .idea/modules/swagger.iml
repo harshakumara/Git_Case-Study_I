@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="swagger" external.linked.project.path="$MODULE_DIR$/../../swagger" external.root.project.path="$MODULE_DIR$/../../swagger" external.system.id="GRADLE" external.system.module.group="swagger" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../swagger">
+      <sourceFolder url="file://$MODULE_DIR$/../../swagger/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../swagger/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../swagger/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../swagger/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
